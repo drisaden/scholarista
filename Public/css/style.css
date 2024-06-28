@@ -1,0 +1,12 @@
+ .login-container{
+ align-items: flex-start;
+    max-height: unset;
+    white-space: unset;
+    text-align: left;
+    border-radius: 8px;
+    display: flex !important;
+    margin: 0 !important;
+    height: 100% !important;
+    flex-direction: column;
+    padding: 15px !important;
+}
